@@ -1,0 +1,61 @@
+C:\Users\Acar\Documents\Visual Studio 2015\Projects\KiBox\KiBox\bin\Debug\KiBox.exe.config
+C:\Users\Acar\Documents\Visual Studio 2015\Projects\KiBox\KiBox\bin\Debug\KiBox.exe
+C:\Users\Acar\Documents\Visual Studio 2015\Projects\KiBox\KiBox\bin\Debug\KiBox.pdb
+C:\Users\Acar\Documents\Visual Studio 2015\Projects\KiBox\KiBox\obj\Debug\KiBox.Form1.resources
+C:\Users\Acar\Documents\Visual Studio 2015\Projects\KiBox\KiBox\obj\Debug\KiBox.Form2.resources
+C:\Users\Acar\Documents\Visual Studio 2015\Projects\KiBox\KiBox\obj\Debug\KiBox.Form3.resources
+C:\Users\Acar\Documents\Visual Studio 2015\Projects\KiBox\KiBox\obj\Debug\KiBox.Form4.resources
+C:\Users\Acar\Documents\Visual Studio 2015\Projects\KiBox\KiBox\obj\Debug\KiBox.Form5.resources
+C:\Users\Acar\Documents\Visual Studio 2015\Projects\KiBox\KiBox\obj\Debug\KiBox.Form6.resources
+C:\Users\Acar\Documents\Visual Studio 2015\Projects\KiBox\KiBox\obj\Debug\KiBox.Form7.resources
+C:\Users\Acar\Documents\Visual Studio 2015\Projects\KiBox\KiBox\obj\Debug\KiBox.Form8.resources
+C:\Users\Acar\Documents\Visual Studio 2015\Projects\KiBox\KiBox\obj\Debug\KiBox.Properties.Resources.resources
+C:\Users\Acar\Documents\Visual Studio 2015\Projects\KiBox\KiBox\obj\Debug\KiBox.csproj.GenerateResource.Cache
+C:\Users\Acar\Documents\Visual Studio 2015\Projects\KiBox\KiBox\obj\Debug\KiBox.exe
+C:\Users\Acar\Documents\Visual Studio 2015\Projects\KiBox\KiBox\obj\Debug\KiBox.pdb
+C:\Users\Acar\documents\visual studio 2015\Projects\KiBox\KiBox\obj\Debug\KiBox.Form11.resources
+C:\Users\Acar\Desktop\KiBox\KiBox\bin\Debug\KiBox.exe.config
+C:\Users\Acar\Desktop\KiBox\KiBox\obj\Debug\KiBox.exe
+C:\Users\Acar\Desktop\KiBox\KiBox\obj\Debug\KiBox.pdb
+C:\Users\Acar\Desktop\KiBox\KiBox\bin\Debug\KiBox.exe
+C:\Users\Acar\Desktop\KiBox\KiBox\bin\Debug\KiBox.pdb
+C:\Users\Acar\Desktop\KiBox\KiBox\obj\Debug\KiBox.csprojResolveAssemblyReference.cache
+C:\Users\Acar\Desktop\KiBox\KiBox\obj\Debug\KiBox.Form1.resources
+C:\Users\Acar\Desktop\KiBox\KiBox\obj\Debug\KiBox.Form11.resources
+C:\Users\Acar\Desktop\KiBox\KiBox\obj\Debug\KiBox.Form2.resources
+C:\Users\Acar\Desktop\KiBox\KiBox\obj\Debug\KiBox.Form3.resources
+C:\Users\Acar\Desktop\KiBox\KiBox\obj\Debug\KiBox.Form4.resources
+C:\Users\Acar\Desktop\KiBox\KiBox\obj\Debug\KiBox.Form5.resources
+C:\Users\Acar\Desktop\KiBox\KiBox\obj\Debug\KiBox.Form6.resources
+C:\Users\Acar\Desktop\KiBox\KiBox\obj\Debug\KiBox.Form7.resources
+C:\Users\Acar\Desktop\KiBox\KiBox\obj\Debug\KiBox.Properties.Resources.resources
+C:\Users\Acar\Desktop\KiBox\KiBox\obj\Debug\KiBox.csproj.GenerateResource.Cache
+C:\Users\Acar\Documents\Visual Studio 2015\Projects\KiBox\KiBox\obj\Debug\KiBox.csprojResolveAssemblyReference.cache
+C:\Users\Acar\Desktop\KiBox\KiBox\obj\Debug\KiBox.Form10.resources
+C:\Users\Acar\Desktop\KiBox\KiBox\obj\Debug\KiBox.Form8.resources
+C:\Users\Acar\Desktop\KiBox\KiBox\obj\Debug\KiBox.Yardim.resources
+C:\Users\Acar\Documents\Visual Studio 2015\Projects\KiBox\KiBox\obj\Debug\KiBox.Form10.resources
+C:\Users\Acar\Documents\Visual Studio 2015\Projects\KiBox\KiBox\obj\Debug\KiBox.Yardim.resources
+C:\Users\Acar\Documents\Visual Studio 2015\Projects\KiBox\KiBox\obj\Debug\KiBox.Form9.resources
+C:\Users\Acar\Desktop\KiBox\KiBox\obj\Debug\KiBox.Form9.resources
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox\KiBox Setup&Biçimler\Proje Biçimi\KiBox\bin\Debug\KiBox.exe.config
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox\KiBox Setup&Biçimler\Proje Biçimi\KiBox\bin\Debug\KiBox.exe
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox\KiBox Setup&Biçimler\Proje Biçimi\KiBox\bin\Debug\KiBox.pdb
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox\KiBox Setup&Biçimler\Proje Biçimi\KiBox\obj\Debug\KiBox.csprojResolveAssemblyReference.cache
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox\KiBox Setup&Biçimler\Proje Biçimi\KiBox\obj\Debug\KiBox.Form1.resources
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox\KiBox Setup&Biçimler\Proje Biçimi\KiBox\obj\Debug\KiBox.Form10.resources
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox\KiBox Setup&Biçimler\Proje Biçimi\KiBox\obj\Debug\KiBox.Form11.resources
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox\KiBox Setup&Biçimler\Proje Biçimi\KiBox\obj\Debug\KiBox.Form2.resources
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox\KiBox Setup&Biçimler\Proje Biçimi\KiBox\obj\Debug\KiBox.Form3.resources
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox\KiBox Setup&Biçimler\Proje Biçimi\KiBox\obj\Debug\KiBox.Form4.resources
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox\KiBox Setup&Biçimler\Proje Biçimi\KiBox\obj\Debug\KiBox.Form5.resources
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox\KiBox Setup&Biçimler\Proje Biçimi\KiBox\obj\Debug\KiBox.Form6.resources
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox\KiBox Setup&Biçimler\Proje Biçimi\KiBox\obj\Debug\KiBox.Form7.resources
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox\KiBox Setup&Biçimler\Proje Biçimi\KiBox\obj\Debug\KiBox.Form8.resources
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox\KiBox Setup&Biçimler\Proje Biçimi\KiBox\obj\Debug\KiBox.Form9.resources
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox\KiBox Setup&Biçimler\Proje Biçimi\KiBox\obj\Debug\KiBox.Properties.Resources.resources
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox\KiBox Setup&Biçimler\Proje Biçimi\KiBox\obj\Debug\KiBox.Yardim.resources
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox\KiBox Setup&Biçimler\Proje Biçimi\KiBox\obj\Debug\KiBox.csproj.GenerateResource.Cache
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox\KiBox Setup&Biçimler\Proje Biçimi\KiBox\obj\Debug\KiBox.csproj.CoreCompileInputs.cache
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox\KiBox Setup&Biçimler\Proje Biçimi\KiBox\obj\Debug\KiBox.exe
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox\KiBox Setup&Biçimler\Proje Biçimi\KiBox\obj\Debug\KiBox.pdb
